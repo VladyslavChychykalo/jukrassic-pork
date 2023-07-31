@@ -2,7 +2,6 @@
   "name": "jukrassic-pork",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KhailoAndrey.github.io/jukrassic-pork/",
   "dependencies": {
     "@sanity/client": "^6.1.3",
     "@sanity/image-url": "^1.0.2",
